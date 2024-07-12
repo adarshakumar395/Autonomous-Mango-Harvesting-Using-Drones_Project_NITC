@@ -1,1 +1,0 @@
-This code sets up a basic RRT* implementation in Google Colab with a user interface for input and a 3D visualization of the path and obstacles. The algorithm ensures that the path maintains a minimum clearance of 5 cm from the obstacles.
